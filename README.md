@@ -1,5 +1,5 @@
 # Better-Reads
-Better Reads: Book tracking app like GoodReads using Java Spring Boot and Spring Data JPA  which is Casandra Repository
+Better Reads: Book tracking app like GoodReads using Java Spring Boot and Spring Data JPA  which is Casandra Repository. UI includes Thymeleaf 
 
 # Better-Reads-DataLoader
 A sub spring project to upload data to casandra database.
